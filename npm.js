@@ -12,3 +12,5 @@
 // npm init
 // npm init -y (to create npm default)
 
+// to install in dev-dependency
+// npm i <package Name> -D
